@@ -1,2 +1,2 @@
-# Alkoholna-Pica
-Lightweight landing page za rakije i alkoholna pica
+# Alchohol-Drinks
+Lightweight landing page for rakija and other alcholol drinks
